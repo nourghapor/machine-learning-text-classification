@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # News Text Classification with Machine Learning
 
 ## Proje Hakkında
@@ -34,3 +35,7 @@ Veri ön işleme adımları, model eğitimi, performans değerlendirmesi ve inte
 - Gerekli kütüphaneler:  
   ```bash
   pip install -r requirements.txt
+=======
+# machine-learning-text-classification
+A Python project for news text classification using machine learning models (Naive Bayes and Logistic Regression) on public news datasets. Includes data preprocessing, model training, evaluation, and interactive text prediction.
+>>>>>>> bc692569205427088bfcb8e8e4a1226c047feda2
